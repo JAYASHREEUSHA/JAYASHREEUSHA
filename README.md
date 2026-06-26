@@ -28,7 +28,7 @@
 
 ## 👋 Hi, I'm Jayashree
 
-🎓 Final Year B.Tech AI & ML @ M.S. Ramaiah University of Applied Sciences, Bengaluru · CGPA: 7.78/10  
+🎓 Final Year B.Tech AI & ML @ M.S. Ramaiah University of Applied Sciences, Bengaluru · CGPA: 8.15/10  
 🧠 Building **INTERVEXA** — AI-powered interview proctoring & multimodal behavioural analysis  
 🔭 Interests: Computer Vision · NLP · Explainable AI · Behavioural Analytics  
 📫 Open to internships & entry-level AI/ML roles · **jayashreepalani12@gmail.com**
